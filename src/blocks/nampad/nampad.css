@@ -1,0 +1,10 @@
+.nampad {
+    width:480px;
+    margin: 40px auto;
+    grid-template-columns: 60% 40%;
+    column-gap: 2px;
+    display: none;
+}
+
+
+

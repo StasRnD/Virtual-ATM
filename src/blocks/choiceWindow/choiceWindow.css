@@ -1,0 +1,7 @@
+.choiceWindow {
+    margin:auto;
+    width:480px;
+    margin: 40px auto;
+    display: none;
+    flex-direction: column
+}
